@@ -1,6 +1,7 @@
 # EDA_Stock_Price_Analysis
 
 A visualization of stocks of different companies.
+The dataset has been downloaded from kaggle. It has csv files containing the opening price, closing price of stocks of over 100 companies 
 
 ![download (1)](https://user-images.githubusercontent.com/41074452/155640655-db15dd81-a99d-41cf-978c-ccc2f24dda70.png)
 
